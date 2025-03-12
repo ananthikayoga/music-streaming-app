@@ -77,33 +77,6 @@
       "songUrl": "Songs/chaleya.mp3",
       "singer": "Arijit Singh",
       "id": 1
-    },
-    {
-      "itemId": 6,
-      "title": "Tum hi Ho",
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Tum_Hi_Ho_cover.jpeg",
-      "genre": "Emotional",
-      "songUrl": "public/Songs/Tum Hi Ho.mp3",
-      "singer": "Arijit Singh",
-      "id": 2
-    },
-    {
-      "itemId": 1,
-      "title": "Bol Do Na Zara",
-      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
-      "genre": "Romantic",
-      "songUrl": "Songs/Bol Do Na Zara.mp3",
-      "singer": "Armaan Malik",
-      "id": 3
-    },
-    {
-      "itemId": 3,
-      "title": "Humnava Mere",
-      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
-      "genre": "Romantic",
-      "songUrl": "Songs/Humnava Mere.mp3",
-      "singer": "Jubin Nautiyal",
-      "id": 4
     }
   ]
 }
